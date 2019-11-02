@@ -1,4 +1,5 @@
 # education
 Проекты для самообучения
 
-1. Arkanoid Game - простенькая игра на Python и Tkinter.
+1. Timer - примитивная напоминалка.
+2. Arkanoid Game - простенькая игра на Python и Tkinter.
